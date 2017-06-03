@@ -11,7 +11,7 @@
 
   <buildtool_export_depend>cmake</buildtool_export_depend>
 
-  <depend>poco-dev</depend>
+  <depend>libpoco-dev</depend>
 
   <export>
     <build_type>cmake</build_type>
