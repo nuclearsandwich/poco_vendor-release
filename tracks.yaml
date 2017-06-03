@@ -14,7 +14,7 @@ tracks:
       :{release_inc}
     devel_branch: null
     name: upstream
-    patches: null
+    patches: r2b2
     release_inc: -1
     release_repo_url: git@github.com:nuclearsandwich/poco_vendor-release
     release_tag: master
