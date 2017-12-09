@@ -5,8 +5,8 @@
   <version>:{version}</version>
   <description>CMake shim over the poco library.</description>
   <maintainer email="steven@openrobotics.org">Steven! Ragnarök</maintainer>
-  <license>Apache License 2.0</license>
-
+  <license>Apache License 2.0</license> <!-- The contents of this vendor package are Apache 2.0 -->
+  <license>Boost Software License 1.0</license> <!-- poco is licensed under the Boost Software License 1.0 (https://pocoproject.org/license.html) -->
   <buildtool_depend>cmake</buildtool_depend>
 
   <buildtool_export_depend>cmake</buildtool_export_depend>

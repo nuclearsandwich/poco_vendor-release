@@ -18,7 +18,7 @@ tracks:
     patches: xenial
     release_inc: '4'
     release_repo_url: git@github.com:ros2-gbp/poco_vendor-release
-    release_tag: master
+    release_tag: 1.0.0
     ros_distro: ardent
     vcs_type: git
     vcs_uri: https://github.com/ros2/poco_vendor.git
