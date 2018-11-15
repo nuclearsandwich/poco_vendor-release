@@ -1,3 +1,26 @@
+## poco_vendor (crystal) - 1.1.1-0
+
+The packages in the `poco_vendor` repository were released into the `crystal` distro by running `/usr/bin/bloom-release -nr crystal poco_vendor --override-release-repository-push-url git@github.com:ros2-gbp/poco_vendor-release` on `Thu, 15 Nov 2018 18:28:38 -0000`
+
+The `poco_vendor` package was released.
+
+Version of package(s) in repository `poco_vendor`:
+
+- upstream repository: https://github.com/ros2/poco_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## poco_vendor (bouncy) - 1.1.1-0
 
 The packages in the `poco_vendor` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release poco_vendor -r bouncy -t bouncy -e` on `Fri, 22 Jun 2018 22:34:07 -0000`
