@@ -1,3 +1,26 @@
+## poco_vendor (dashing) - 1.2.0-1
+
+The packages in the `poco_vendor` repository were released into the `dashing` distro by running `/home/steven/osrf/bloom/myscripts/py3env/bin/bloom-release -n -r dashing poco_vendor --override-release-repository-push-url git@github.com:ros2-gbp/poco_vendor-release` on `Thu, 11 Apr 2019 16:42:45 -0000`
+
+The `poco_vendor` package was released.
+
+Version of package(s) in repository `poco_vendor`:
+
+- upstream repository: https://github.com/ros2/poco_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0.dev2`
+- catkin_pkg version: `0.4.11`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.3`
+- vcstools version: `0.1.40`
+
+
 ## poco_vendor (crystal) - 1.1.1-0
 
 The packages in the `poco_vendor` repository were released into the `crystal` distro by running `/usr/bin/bloom-release -nr crystal poco_vendor --override-release-repository-push-url git@github.com:ros2-gbp/poco_vendor-release` on `Thu, 15 Nov 2018 18:28:38 -0000`
