@@ -1,0 +1,12 @@
+Source: ros-eloquent-poco-vendor
+Section: misc
+Priority: extra
+Maintainer: Steven! Ragnarök <steven@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), cmake, libpcre3-dev, libpoco-dev, zlib1g-dev, ros-eloquent-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-poco-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, cmake, libpcre3-dev, libpoco-dev, zlib1g-dev, ros-eloquent-ros-workspace
+Description: CMake shim over the poco library.
