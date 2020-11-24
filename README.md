@@ -1,3 +1,26 @@
+## poco_vendor (dashing) - 1.2.1-1
+
+The packages in the `poco_vendor` repository were released into the `dashing` distro by running `/home/steven/.local/bin/bloom-release -r dashing poco_vendor` on `Tue, 24 Nov 2020 20:22:01 -0000`
+
+The `poco_vendor` package was released.
+
+Version of package(s) in repository `poco_vendor`:
+
+- upstream repository: https://github.com/ros2/poco_vendor.git
+- release repository: https://github.com/ros2-gbp/poco_vendor-release.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## poco_vendor (eloquent) - 1.2.0-1
 
 The packages in the `poco_vendor` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -n -r eloquent poco_vendor --override-release-repository-push-url git@github.com:ros2-gbp/poco_vendor-release` on `Mon, 16 Sep 2019 20:40:04 -0000`
